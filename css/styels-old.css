@@ -90,3 +90,13 @@ body{
 .close:hover{
     color: #EAF6FF;
 }
+
+.card-header{
+    background-color: #2A2A72;
+    color: #EAF6FF;
+}
+
+.tableHeading{
+    background-color: #2A2A72;
+    color: #EAF6FF;
+}
