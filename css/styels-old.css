@@ -76,3 +76,17 @@ body{
     right: 0%;
     bottom:0%;
 }
+
+.modal-header{
+    background-color: #2A2A72;
+    color: #FFA400;
+}
+
+.close{
+    color: #FFA400;
+    
+}
+
+.close:hover{
+    color: #EAF6FF;
+}
